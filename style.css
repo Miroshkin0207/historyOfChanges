@@ -49,14 +49,14 @@ h1 {
     }
 
     h2 {
-        font-size: 65px
-    }
-
-    h4 {
         font-size: 60px
     }
 
-    p {
+    h4 {
         font-size: 55px
+    }
+
+    p {
+        font-size: 50px
     }
 }
